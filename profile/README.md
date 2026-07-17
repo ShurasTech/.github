@@ -4,8 +4,6 @@
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/ShurasTech/.github/main/assets/shurastech-logo.png" width="140" alt="ShurasTech Logo"/>
-
 ### Building software, automation and ideas.
 *A place where curiosity becomes code.*
 
